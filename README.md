@@ -1,16 +1,9 @@
-# child_safety
+# Tracking_Safety_Application
 
-A new Flutter project.
+A Tracking Safety Application is to moniter the specified person Which Can be a Child or Women for Safety Purpose.
 
-## Getting Started
+## Tracking Application
 
-This project is a starting point for a Flutter application.
+This project is for Safety purpose Its has done by fething geo location of device to moniter them and We can set a certain range to that application . If They Cross that range we will get a notification to who is monitering . By That We can login into the parent login and we can get the location where they are and we can also get the direction through google maps.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
