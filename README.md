@@ -8,7 +8,6 @@ This project is for Safety purpose Its has done by fething geo location of devic
 
 ## Screenshots
 
-![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC1.jpg)
-![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC2.jpg)
+![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC1.jpg) || ![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC2.jpg)
 ![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC3.jpg)
 ![alt text](https://github.com/Barathkrishna14/Traking-Safety-Application/blob/master/SC4.jpg)
